@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'sf-pro-text_bold';
+    src: url('assets/sf-pro-text_bold.woff2') format('woff2');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sf-pro-text_regular';
+    src: url('assets/sf-pro-text_regular.woff2') format('woff2');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'sf-pro-text_regular';
+
+}
